@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20160420</CreaDate><CreaTime>13260200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Fill" ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Fill" Date="20160420" Time="132602">Fill E:\GEO503\elevation\ned30m44085.tif E:\GEO503\demfill #</Process></lineage></DataProperties></Esri></metadata>
