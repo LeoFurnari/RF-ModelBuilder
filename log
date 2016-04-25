@@ -1,0 +1,7 @@
+201604131228   2    59     0furna1lv E:\GEO503\demfill = FILLSINK(E:\GEO503\elevation\ned30m44085.tif,  #)
+201604131239   5   313     0furna1lv E:\GEO503\viewshedDEM = VISIBILITY(E:\GEO503\demfill,  E:\GEO503\Export_cellular, POINT, FREQUENCY)
+201604131253   6  -120     0furna1lv E:\GEO503\realviewshed = VISIBILITY(E:\GEO503\demfill,  E:\GEO503\Export_cellular, POINT, FREQUENCY)
+201604131302   5  -119     0furna1lv E:\GEO503\viewfinal = VISIBILITY(E:\GEO503\demfill,  E:\GEO503\Export_cellular, POINT, FREQUENCY)
+201604131348   1    33     0furna1lv E:\GEO503\newtowview = VISIBILITY(E:\GEO503\demfill,  E:\GEO503\newtower, POINT, FREQUENCY)
+201604201326   3    60     0furna1lv E:\GEO503\demfill = FILLSINK(E:\GEO503\elevation\ned30m44085.tif,  #)
+201604201335   6   358     0furna1lv E:\GEO503\mergeView = VISIBILITY(E:\GEO503\demfill,  E:\GEO503\cellMerge, POINT, FREQUENCY)
